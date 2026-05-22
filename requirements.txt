@@ -1,0 +1,4 @@
+paddlenlp==2.0.8
+numpy
+tqdm
+paddlepaddle-gpu
